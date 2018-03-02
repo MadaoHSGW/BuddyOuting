@@ -1,10 +1,10 @@
 p {
     color: rgb(0, 0, 0);
     text-align: center;
-    font-size: 40px;
-    font-family: SanamDeklen_chaya;
+    font-size: 60px;
+    font-family: AC Espressa;
 }
 @font-face {
-    font-family: SanamDeklen_chaya;
-    src: url(SanamDeklen_chaya.ttf);
+    font-family: AC Espressa;
+    src: url(AC-Espressa.ttf);
 }
